@@ -1,4 +1,4 @@
-# Andrey Karetnikov
+# Andrey Karetnikov  
 **Odesa, Ukraine**
 
 ## Contact Info
@@ -9,7 +9,9 @@
 I think JavaScript is an amazing programming language. I liked it right away as I started learning it. I want to become a front-end developer and am ready to make every effort to achive this.
 
 ## Skills
-Basic level of HTML5, CSS3 and Javascript
+* HTML5, CSS3, Javascript
+* Git
+* Figma, Photoshop
 
 ## Code Examples
 ```
@@ -30,13 +32,15 @@ function count (string) {
 }
 ```
 
-## Education
-Odesa College of Gas and Oil Industry - Operating of Industrial Control Systems
-Odesa I.I.Mechnikov National University - International Economic Relations
+## Experience
+Completed [HTML Academy: HTML & CSS Basics](https://htmlacademy.ru/profile/id150095/)  
+Completed [HTML Academy: Javascript Basics](https://htmlacademy.ru/profile/id150095/)  
+Completed [Codecademy: Learn HTML](https://www.codecademy.com/profiles/Androscript)  
+Completed [Codecademy: Learn CSS](https://www.codecademy.com/profiles/Androscript)
 
-## Self Education
-* Completed [HTML Academy: HTML & CSS Basics](https://htmlacademy.ru/profile/id150095/)
-* Completed [HTML Academy: Javascript Basics](https://htmlacademy.ru/profile/id150095/)
+## Education
+Odesa College of Gas and Oil Industry - Operating of Industrial Control Systems  
+Odesa I.I.Mechnikov National University - International Economic Relations
 
 ## English
 B2 according to EPAM English Test
