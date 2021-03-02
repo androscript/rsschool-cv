@@ -1,8 +1,9 @@
 # Andrey Karetnikov
+**Odesa, Ukraine**
 
 ## Contact Info
-* E-mail: androscript@gmail.com
-* Discord: Andrey Karetnikov#4730
+* **E-mail**: androscript@gmail.com
+* **Discord**: Andrey Karetnikov#4730
 
 ## Summary
 I think JavaScript is an amazing programming language. I liked it right away as I started learning it. I want to become a front-end developer and am ready to make every effort to achive this.
@@ -30,6 +31,7 @@ function count (string) {
 ```
 
 ## Education
+Odesa College of Gas and Oil Industry - Operating of Industrial Control Systems
 Odesa I.I.Mechnikov National University - International Economic Relations
 
 ## Self Education
