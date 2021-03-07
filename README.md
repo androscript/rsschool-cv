@@ -1,1 +1,1 @@
-https://androscript.github.io/rsschool-cv/cv
+https://androscript.github.io/rsschool-cv/
